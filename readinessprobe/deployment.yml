@@ -1,0 +1,22 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: readiness-sample
+spec:
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: readiness
+    spec:
+      containers:
+      - name: readiness
+        image: readiness:latest
+        imagePullPolicy: Never
+        readinessProbe:
+            tcpSocket:
+              port: 8080
+            initialDelaySeconds: 5
+            periodSeconds: 10
+        ports:
+        - containerPort: 8086
