@@ -1,13 +1,4 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 name: "\U0001F41C  Bug report"
 about: "If something isn't working \U0001F527"
 title: ''
