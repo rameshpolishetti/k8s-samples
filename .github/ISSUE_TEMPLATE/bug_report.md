@@ -10,7 +10,11 @@ assignees: ''
 | ------------------------| ---------- |
 | BusinessEvents             |                 |
 | OS Type?     |                 |
-| OS Version?           |                 |
+| OS Version?  |                 |
+| Docker Version?  |                 |
+| Kubernetes Version?  |                 |
+| Helm Version?  |                 |
+
 ### What is the expected behavior?
 ### What is the actual behavior?
 ### Please provide a unit test that demonstrates the bug.
