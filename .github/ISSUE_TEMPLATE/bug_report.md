@@ -6,14 +6,14 @@ labels: ''
 assignees: ''
 ---
 ### Version Information
-| Software                       | Version(s) |
-| ------------------------| ---------- |
-| BusinessEvents             |                 |
-| OS Type?     |                 |
-| OS Version?  |                 |
-| Docker Version?  |                 |
-| Kubernetes Version?  |                 |
-| Helm Version?  |                 |
+| Software       | Version(s) |
+| -------------- | ---------- |
+| BusinessEvents |            |
+| OS Type?       |            |
+| OS Version?    |            |
+| Docker         |            |
+| Kubernetes     |            |
+| Helm           |            |
 
 ### What is the expected behavior?
 ### What is the actual behavior?
