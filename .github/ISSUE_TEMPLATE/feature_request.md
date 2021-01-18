@@ -1,13 +1,4 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 name: "\U0001F680  Feature request"
 about: "If you have a feature request \U0001F4A1"
 title: ''
